@@ -5,7 +5,7 @@ Repositório para centralizar informações (links, vídeos, conteúdos, projeto
 
 ## Conteúdo
 - [Plataformas](#plataformas)
-- [Sistemas para Integrações](#sistemas-para-integracoes)
+- [Sistemas para Integrações](#sistemas-para-integrações)
 - [Sites](#sites)
 - [Exemplos](#exemplos)
 
