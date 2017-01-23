@@ -3,19 +3,19 @@ Repositório para centralizar informações (links, vídeos, conteúdos, projeto
 <br>
 <br>
 
-## Contents
+## Conteúdo
 - [Plataformas](#plataformas)
 - [Sistemas para Integrações](#sistemas-para-integracoes)
 - [Sites](#sites)
 - [Exemplos](#exemplos)
 
 
-## Platforms
-[Sming](http://sminghub.github.io/Sming/){:target="_blank"} - Open Source framework for high efficiency native ESP8266 development 
+## Plataformas
+[Sming](http://sminghub.github.io/Sming/) - Open Source framework for high efficiency native ESP8266 development 
 
 
-## Sistema para Integrações
-[Home Assistant](https://home-assistant.io/){:target="_blank"} - Home Assistant is an open-source home automation platform running on Python 3. Track and control all devices at home and automate control. Installation in less than a minute.
+## Sistemas para Integrações
+[Home Assistant](https://home-assistant.io/) - Home Assistant is an open-source home automation platform running on Python 3. Track and control all devices at home and automate control. Installation in less than a minute.
 
 
 ## Sites
